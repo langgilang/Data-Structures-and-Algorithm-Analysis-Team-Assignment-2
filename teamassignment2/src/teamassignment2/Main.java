@@ -2,6 +2,12 @@ package teamassignment2;
 
 import java.util.Scanner;
 
+//NAMA ANGGOTA
+//GILANG SURYA PRATAMA - 2902784896
+//FAIZ AZHAR RISTYA NUGRAHA - 2902799903
+//ADITYA SECHAN SAPUTRA - 2902795211
+//ROBBY FAHSYA - 2902765505
+
 //============================================================
 //Class Lagu: merepresentasikan satu objek lagu dalam playlist
 //Atribut: judul, artis, durasi
